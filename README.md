@@ -89,15 +89,16 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavatharni&show_icons=true&count_private=true&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavatharni&hide_border=true" />
 </p>
 
-
-
----
 
 ## 📌 What I’m Looking For
 
