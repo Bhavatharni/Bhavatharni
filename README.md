@@ -63,15 +63,12 @@
 
 ---
 
-## 📊 GitHub Coding Statistics
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavatharni&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://leetcard.jacoblin.cool/bhavatharni_12?theme=dark&font=JetBrains%20Mono" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavatharni&hide_border=true" />
-</p>
 
 ---
 
