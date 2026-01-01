@@ -2,31 +2,24 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=3000&pause=800&color=0AFFEF&center=true&vCenter=true&width=700&lines=I'm+Bhavatharni;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Problem+Solver" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=700&color=0AFFEF&center=true&vCenter=true&width=800&lines=I'm+Bhavatharni;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Problem+Solver" />
   </h1>
 </div>
 
 ---
 
-<div align="center">
-  <h2>🚀 About Me</h2>
-  <p>
-    I'm a final-year Engineering student and an aspiring <b>Java Backend Developer</b> with strong interest in 
-    building <b>scalable, secure, and real-world applications</b>.
-    <br/><br/>
-    I specialize in <b>Spring Boot, REST API development, JWT-based security</b>, and enjoy solving
-    <b>Data Structures & Algorithms</b> problems to strengthen my problem-solving skills.
-  </p>
-</div>
+## 🚀 About Me
+
+🎓 Final Year Engineering Student  
+💻 Aspiring **Java Backend Developer**  
+🔐 Backend-focused developer experienced in **Spring Boot, REST APIs, JWT Security**  
+🧠 Strong interest in **problem solving, system logic, and clean architecture**
 
 ---
 
-<div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>
-    Feel free to connect with me for opportunities, collaborations, or technical discussions.
-  </p>
+## 🌐 Connect With Me
 
+<p align="center">
   <a href="https://www.linkedin.com/in/bhavatharni-j-3b45b2252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
@@ -36,50 +29,87 @@
   <a href="https://www.hackerrank.com/profile/jbhavatharni" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
   </a>
-  <a href="mailto:your_email_here@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-</div>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧠 LeetCode Stats & Badges
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bhavatharni_12?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</p>
+
+✔ Shows:
+- Total problems solved  
+- Easy / Medium / Hard breakdown  
+- Contest participation  
+- Ranking (auto-updated)
+
+---
+
+## 🛠️ Languages & Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/>
 </div>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Coding Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavatharni&show_icons=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavatharni&hide_border=true" />
+</p>
+
+---
+
+## 🧮 Code Metrics (Auto Calculated)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavatharni&theme=github_dark" />
+</p>
+
+✔ Includes:
+- Total commits  
+- Active days  
+- Contribution frequency  
+- Language distribution  
+
+---
+
+## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavatharni&theme=github-dark" />
 </p>
 
+✔ Shows **consistency & frequency** of GitHub usage (very important for recruiters)
+
 ---
 
-### 🎯 Career Focus
+## 🎯 Career Focus
 
 - Java Backend Developer (Fresher / Intern)
-- Backend-focused Full Stack Developer
-- REST API & Microservice-oriented roles
+- Backend-heavy Full Stack Roles
+- API & Microservice-based Systems
 
 ---
 
-### ⭐ Recruiter Note
+## ⭐ Recruiter Note
 
-> My repositories demonstrate **clean backend architecture**, **real-world problem solving**,  
-> and consistent learning through projects and coding practice.
+> This profile reflects **real coding activity**, **problem-solving practice**,  
+> and **backend-focused project development** — all metrics are auto-generated and verifiable.
 
 Thanks for visiting my profile 🙌
