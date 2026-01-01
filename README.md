@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=700&color=0AFFEF&center=true&vCenter=true&width=800&lines=I'm+Bhavatharni;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Problem+Solver" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=700&color=0AFFEF&center=true&vCenter=true&width=800&lines=I'm+Bhavatharni;Java+Backend+Developer;Web+Developer;App+Developer" />
   </h1>
 </div>
 
