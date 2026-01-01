@@ -89,15 +89,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavatharni&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavatharni&show_icons=true&count_private=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavatharni&theme=react" />
-</p>
 
 ---
 
