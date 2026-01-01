@@ -63,15 +63,6 @@
 
 ---
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/bhavatharni_12?theme=dark&font=JetBrains%20Mono" />
-</p>
-
-
----
-
 ## 🧮 Code Metrics (Auto Calculated)
 
 <p align="center">
