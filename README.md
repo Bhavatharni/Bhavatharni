@@ -42,11 +42,6 @@ Alongside backend development, I actively strengthen my **problem-solving skills
   <img src="https://leetcard.jacoblin.cool/bhavatharni_12?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </p>
 
-✔ Shows:
-- Total problems solved  
-- Easy / Medium / Hard breakdown  
-- Contest participation  
-- Ranking (auto-updated)
 
 ---
 
@@ -115,11 +110,6 @@ Alongside backend development, I actively strengthen my **problem-solving skills
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavatharni&theme=github_dark" />
 </p>
 
-✔ Includes:
-- Total commits  
-- Active days  
-- Contribution frequency  
-- Language distribution  
 
 ---
 
@@ -129,21 +119,8 @@ Alongside backend development, I actively strengthen my **problem-solving skills
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavatharni&theme=github-dark" />
 </p>
 
-✔ Shows **consistency & frequency** of GitHub usage (very important for recruiters)
 
 ---
 
-## 🎯 Career Focus
-
-- Java Backend Developer (Fresher / Intern)
-- Backend-heavy Full Stack Roles
-- API & Microservice-based Systems
-
----
-
-## ⭐ Recruiter Note
-
-> This profile reflects **real coding activity**, **problem-solving practice**,  
-> and **backend-focused project development** — all metrics are auto-generated and verifiable.
 
 Thanks for visiting my profile 🙌
